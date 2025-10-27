@@ -2,6 +2,10 @@
 ..
 ...
 ?
+=
++
+==
+;
 --
 1
 2
@@ -285,6 +289,7 @@ hai
 hi
 ni
 nai
+nhi
 nah
 haan
 had
@@ -464,6 +469,8 @@ kahaa
 kahaan
 kahan
 kahi
+khi
+kha
 kahin
 kahte
 kaisa
@@ -634,6 +641,7 @@ nai
 nhi
 =
 edited
+edited>
 <edited
 <edited>
 kr
